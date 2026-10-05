@@ -1,97 +1,75 @@
-<h1 align="center">Oh, an alien! Welcome to my world!</h1>
-<img alt="pixel" src="https://md-analytics.vercel.app/api/track/eletroswing-github-tracking-pixel" />
+<h1 align="center">Excelsior!</h1>
 
-###
+<p align="center">
+  <b>Ytalo "Fountai" Batalha</b><br>
+  AI researcher · full stack engineer · from papers to production
+</p>
 
-<h4 align="center">Visitor number(part of one of my projects, <a href="https://md-analytics.vercel.app" target="_blank">Md Analytics</a>)</h4>
+<p align="center">
+  <a href="https://fountai-dev.vercel.app"><img src="https://img.shields.io/badge/blog-fountai--dev-111111?style=flat-square&logo=vercel&logoColor=white" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/ytalo-batalha-66000423a/"><img src="https://img.shields.io/badge/LinkedIn-Ytalo%20Batalha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fountaii.fountaii" alt="Visitors">
+</p>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://md-analytics.vercel.app/api/widgets/view-counter/eletroswing-github-tracking-pixel"  />
-</div>
+<img align="right" height="180" src="https://media.tenor.com/rV4BERtCh4MAAAAM/eren-aot-s4.gif" alt="">
 
+### About me
 
-###
+- I research applied AI: real-time computer vision, image generation on constrained hardware, recommendation systems and ranking algorithms.
+- I build what takes those models to production: backends, video streaming, payments and distributed systems.
+- I write about what I learn on my [blog](https://fountai-dev.vercel.app).
+- Coding since I was 8. Logic first, language second.
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/0b/a4/33/0ba43345ae150f02b95cf9f1ca8aa124.gif"  />
+<br clear="right">
 
-###
+### Stack
 
-<h4 align="center"><br><br><br>🪐<br>I'm a person who loves to work in a team and doesn't refuse new challenges, it's like the speed of light was possible in physical matter!</h4>
+**AI & data**<br>
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,anaconda" alt="Python, PyTorch, OpenCV, Anaconda">
 
-###
+**Engineering**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,adonis,redis,docker,aws,azure,linux,bash,c,cs" alt="Node.js, TypeScript, JavaScript, AdonisJS, Redis, Docker, AWS, Azure, Linux, Bash, C, C#">
 
-<br clear="both">
+### Writing
 
-<h2 align="center">A Little of my tech stack!</h2>
+<sub>Posts are in Portuguese 🇧🇷</sub>
 
-###
+**AI & algorithms**
+- [FaceReplace: real-time face swapping, a case study](https://fountai-dev.vercel.app/blog/facereplace-substituicao-de-face-em-tempo-real-um-estudo-de-caso)
+- [Mini doc: mass-producing AI photo content on a very weak PC](https://fountai-dev.vercel.app/blog/mini-doc-como-criei-um-alto-numero-de-conteudos-fotograficos-com-ia-tendo-pc-extremamente-fraco)
+- [The famous algorithm: building a content recommendation system](https://fountai-dev.vercel.app/blog/o-famoso-algoritmo-como-funciona-e-como-fazer-um-sistema-de-recomendacao-de-conteudo-um-ponto-de-partida)
+- [The famous algorithm pt. 2: welcome to the network spider-verse](https://fountai-dev.vercel.app/blog/o-famoso-algoritmo-pt-2-bem-vindos-ao-aranhaverso-das-redesse-aprofundando-um-pouco)
+- [Decoding PageRank: web page ranking, simplified](https://fountai-dev.vercel.app/blog/decodificando-o-pagerank-classificacao-de-paginas-web-simplificada)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" width="52" alt="adonisjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" width="52" alt="electron logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="52" alt="threejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
-</div>
+**Streaming & video**
+- [Streaming: behind the platforms](https://fountai-dev.vercel.app/blog/streaming-por-tras-das-plataformas)
+- [application/x-mpegURL: how Apple revolutionized streaming](https://fountai-dev.vercel.app/blog/application-x-mpegurl-como-a-apple-revolucionou-o-streaming)
+- [Turning multiple video URLs into a live stream on the backend (running on iFunny videos)](https://fountai-dev.vercel.app/blog/transformando-varias-urls-de-videos-em-um-video-ao-vivo-no-backend-e-usando-no-videos-do-ifunny)
+- [How the ad module in my streaming app works](https://fountai-dev.vercel.app/blog/como-funciona-o-modulo-de-anuncios-do-meu-aplicativo-de-streaming)
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=eletroswing" height="150" alt="languages graph"  />
-</div>
+**Backend & systems**
+- [Node.js: raw TCP communication without HTTP or net, just for fun](https://fountai-dev.vercel.app/blog/nodejs-construindo-comunicacao-tcp-pura-sem-http-ou-net-apenas-por-diversao)
+- [The complexity inside a simple system](https://fountai-dev.vercel.app/blog/a-complexidade-em-um-sistema-simples)
+- [Pitch: Express route caching with Redis](https://fountai-dev.vercel.app/blog/pitch-cache-de-rotas-do-express-usando-redis)
+- [Samy Kamkar's Evercookie: the persistent cookie that intrigued secret agencies](https://fountai-dev.vercel.app/blog/evercookie-de-samyk-o-incrivel-cookie-persistente-que-intrigou-agencias-secretas-e-ferrou-com-a-google)
+- [Meta tags: how to improve your SEO](https://fountai-dev.vercel.app/blog/meta-tags-como-melhorar-seu-seo)
 
-<div  align="center">
+**Opinions & career**
 
-<img  align="center" src="https://raw.githubusercontent.com/eletroswing/eletroswing/output/snake.svg" alt="Snake animation" />
+- [Why I hate code comments (and why you should too)](https://fountai-dev.vercel.app/blog/por-que-eu-odeio-comentarios-em-codigo-e-por-que-voce-tambem-deveria)
+- [React and its unnecessary worship](https://fountai-dev.vercel.app/blog/o-react-e-sua-adoracao-desnecessaria)
+- [Tests: what they are and why](https://fountai-dev.vercel.app/blog/testes-o-que-sao-e-por-que)
+- [10 foolproof tips to become an elite developer](https://fountai-dev.vercel.app/blog/10-dicas-infaliveis-para-ser-um-desenvolvedor-de-elite-supere-seus-limites-e-domine-o-codigo)
+- [The difficulty of loving a developer](https://fountai-dev.vercel.app/blog/a-dificuldade-de-amar-um-desenvolvedor)
+- [Ducks are coding](https://fountai-dev.vercel.app/blog/patos-estao-programando)
+- [Off-topic: movies and shows I recommend for programmers](https://fountai-dev.vercel.app/blog/off-filmes-e-series-que-recomendo-para-programadores)
 
-</div>
+### Activity
 
-<h2 align="center">Follow-me on</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ytalo-da-silva-66000423a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me/1000817839009173645" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/soninhodj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=5532991616669&text=Good+Morning+from+github%21&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fountaii/fountaii/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fountaii/fountaii/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/fountaii/fountaii/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
