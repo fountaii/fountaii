@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://fountai-dev.vercel.app"><img src="https://img.shields.io/badge/blog-fountai--dev-111111?style=flat-square&logo=vercel&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/ytalo-batalha-66000423a/"><img src="https://img.shields.io/badge/LinkedIn-Ytalo%20Batalha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fountaii.fountaii" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=github.fountaii.v2&left_color=%23ff0000&format=true" alt="Visitors">
 </p>
 
 <br>
